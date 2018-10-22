@@ -24,7 +24,7 @@ public class Book {
     }
 
     public String getTitle() {
-        return title;
+        return title + "BetstBook";
     }
 
     public void setTitle(String title) {
@@ -32,7 +32,7 @@ public class Book {
     }
 
     public String getAuthor() {
-        return author;
+        return author + "BestAuthor";
     }
 
     public void setAuthor(String author) {
