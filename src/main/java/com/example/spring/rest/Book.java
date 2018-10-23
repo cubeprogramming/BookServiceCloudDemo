@@ -24,7 +24,7 @@ public class Book {
     }
 
     public String getTitle() {
-        return title + "BetstBook";
+        return title + "BetstBookSeller";
     }
 
     public void setTitle(String title) {
